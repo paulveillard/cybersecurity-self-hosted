@@ -5,7 +5,7 @@ Welcome to The World of Self-Hosted in Cybersecurity :
 
 ## Self-Hosting Introduction
 
-**Self-hosting** means *installing, running and maintaining the hardware locally and managing* the software application therein, instead of renting this service from a SaaS (software as a service) provider. 
+**[Self-hosting](https://www.openproject.org/blog/why-self-hosting-software/)** means *installing, running and maintaining the hardware locally and managing* the software application therein, instead of renting this service from a SaaS (software as a service) provider. 
 
 
 
@@ -16,9 +16,9 @@ Welcome to The World of Self-Hosted in Cybersecurity :
 
 - **No vendor lock-in** - Some software providers do not offer an on-premises solution so you could get stuck and will fully depend on the vendor. Letting a software vendor handle your business-critical data is not an easy decision. You could become dependent on this service and if the vendor is not delivering the service anymore or in a bad quality, it is very difficult and complex to migrate your data to a different environment with potential reformatting. Hosting yourself thus gives you independence and long-term planning reliability.
 
-- Customization - On-premises software that is open source gives you the flexibility for customization. You can add or customize code to make it meet your organization’s needs. Customization also results in more control over how information is processed and stored.
+- **Customization** - On-premises software that is open source gives you the flexibility for customization. You can add or customize code to make it meet your organization’s needs. Customization also results in more control over how information is processed and stored.
 
-- Integrations - If your software offers you a powerful API like OpenProject, you can integrate any application and use data across system borders.
+- **Integrations** - If your software offers you a powerful API like OpenProject, you can integrate any application and use data across system borders.
 
 ### Disadvantages of self-hosting
 - **Scalability** - Whilst with a cloud solution you can usually increase the amount of software users or storage capacity with a click, with self-hosting it can impact the hardware, uptime and requires more planning and preparation. Moreover, you might need to add more capacity than needed as e.g. additional hardware does not come in incremental sizes.
