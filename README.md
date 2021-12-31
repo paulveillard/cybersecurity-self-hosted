@@ -34,6 +34,7 @@ Welcome to The World of Self-Hosted in Cybersecurity :
 
 
 - [Software](#software)
+  - [Introduction](#self-hosting-introduction)
   - [Analytics](#analytics)
   - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
   - [Automation](#automation)
