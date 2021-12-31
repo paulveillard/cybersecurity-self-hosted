@@ -5,7 +5,7 @@ Welcome to The World of Self-Hosted in Cybersecurity :
 
 ## What is Self-Hosting?
 
-**Self-hosting** means* installing, running and maintaining the hardware locally and managing* the software application therein, instead of renting this service from a SaaS (software as a service) provider. 
+**Self-hosting** means *installing, running and maintaining the hardware locally and managing* the software application therein, instead of renting this service from a SaaS (software as a service) provider. 
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
