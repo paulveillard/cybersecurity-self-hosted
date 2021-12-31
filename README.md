@@ -3,6 +3,9 @@
 Welcome to The World of Self-Hosted in Cybersecurity :
 > A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Self Hosted. Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+## What is Self-Hosting?
+
+**Self-hosting** means* installing, running and maintaining the hardware locally and managing* the software application therein, instead of renting this service from a SaaS (software as a service) provider. 
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
