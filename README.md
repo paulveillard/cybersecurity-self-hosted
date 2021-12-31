@@ -3,37 +3,31 @@
 Welcome to The World of Self-Hosted in Cybersecurity :
 > A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Self Hosted. Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## What is Self-Hosting?
+## Self-Hosting Introduction
 
 **Self-hosting** means *installing, running and maintaining the hardware locally and managing* the software application therein, instead of renting this service from a SaaS (software as a service) provider. 
 
 
 
 ### Advantages of self-hosting
-Full data control - When you are self-hosting your software, you have full control over your data. The software can be run behind your own organization’s firewall. Your critical data is kept in-house and no other party has access to it. Especially important is that you do not need an internet connection to access your data. Additionally, hosting it yourself means that the on-premises solution is reliable and allows the organization to maintain a level of control that the cloud often cannot.
+- **Full data control** - When you are self-hosting your software, you have full control over your data. The software can be run behind your own organization’s firewall. Your critical data is kept in-house and no other party has access to it. Especially important is that you do not need an internet connection to access your data. Additionally, hosting it yourself means that the on-premises solution is reliable and allows the organization to maintain a level of control that the cloud often cannot.
 
-Security compliance - With your own data center or off-site data center managed by a third party, you can easily comply with any regulation which simplifies data governance. There is no question around where the data is stored and which regulations to be complied with as you determine the terms and conditions. This gives you the option to have no or limited sub-processors. This is especially relevant for highly regulated industries such as the healthcare sector for storing medical records.
+- **Security compliance** - With your own data center or off-site data center managed by a third party, you can easily comply with any regulation which simplifies data governance. There is no question around where the data is stored and which regulations to be complied with as you determine the terms and conditions. This gives you the option to have no or limited sub-processors. This is especially relevant for highly regulated industries such as the healthcare sector for storing medical records.
 
-No vendor lock-in - Some software providers do not offer an on-premises solution so you could get stuck and will fully depend on the vendor. Letting a software vendor handle your business-critical data is not an easy decision. You could become dependent on this service and if the vendor is not delivering the service anymore or in a bad quality, it is very difficult and complex to migrate your data to a different environment with potential reformatting. Hosting yourself thus gives you independence and long-term planning reliability.
+- **No vendor lock-in** - Some software providers do not offer an on-premises solution so you could get stuck and will fully depend on the vendor. Letting a software vendor handle your business-critical data is not an easy decision. You could become dependent on this service and if the vendor is not delivering the service anymore or in a bad quality, it is very difficult and complex to migrate your data to a different environment with potential reformatting. Hosting yourself thus gives you independence and long-term planning reliability.
 
-Customization
-On-premises software that is open source gives you the flexibility for customization. You can add or customize code to make it meet your organization’s needs. Customization also results in more control over how information is processed and stored.
+- Customization - On-premises software that is open source gives you the flexibility for customization. You can add or customize code to make it meet your organization’s needs. Customization also results in more control over how information is processed and stored.
 
-Integrations
-If your software offers you a powerful API like OpenProject, you can integrate any application and use data across system borders.
+- Integrations - If your software offers you a powerful API like OpenProject, you can integrate any application and use data across system borders.
 
-Disadvantages of self-hosting
-Scalability
-Whilst with a cloud solution you can usually increase the amount of software users or storage capacity with a click, with self-hosting it can impact the hardware, uptime and requires more planning and preparation. Moreover, you might need to add more capacity than needed as e.g. additional hardware does not come in incremental sizes.
+### Disadvantages of self-hosting
+- **Scalability** - Whilst with a cloud solution you can usually increase the amount of software users or storage capacity with a click, with self-hosting it can impact the hardware, uptime and requires more planning and preparation. Moreover, you might need to add more capacity than needed as e.g. additional hardware does not come in incremental sizes.
 
-Maintenance and support
-A self-hosted software requires a team of dedicated technicians for ongoing maintenance and updates as well as constant monitoring of technical issues and fixing these. Only if you can provide this expertise should you go with a self-hosted solution. Moreover, the software users might require support which also needs to be handled in-house.
+- **Maintenance and support** - A self-hosted software requires a team of dedicated technicians for ongoing maintenance and updates as well as constant monitoring of technical issues and fixing these. Only if you can provide this expertise should you go with a self-hosted solution. Moreover, the software users might require support which also needs to be handled in-house.
 
-Data recovery
-When self-hosting you need to make a plan for back-ups and data recovery to make sure you are not susceptible to a data loss in case of a disaster situation. It would otherwise cause you unnecessary delays in your organization’s running business.
+- **Data recovery** - When self-hosting you need to make a plan for back-ups and data recovery to make sure you are not susceptible to a data loss in case of a disaster situation. It would otherwise cause you unnecessary delays in your organization’s running business.
 
-Costs
-Regarding costs of self-hosted versus a hosted solution, there is no clear answer to which one is cheaper. It comes down to the size of your organization, the team you already have and the requirements in terms of hardware, support, scalability etc. Either version can end up costing more, it all comes down to your needs. However, in general self-hosting can tend to be more expensive as it requires your own IT team, can cause CAPEX and maintenance costs and you might be paying for more capacity than you are actually using.
+- **Costs** - Regarding costs of self-hosted versus a hosted solution, there is no clear answer to which one is cheaper. It comes down to the size of your organization, the team you already have and the requirements in terms of hardware, support, scalability etc. Either version can end up costing more, it all comes down to your needs. However, in general self-hosting can tend to be more expensive as it requires your own IT team, can cause CAPEX and maintenance costs and you might be paying for more capacity than you are actually using.
 
 
 ## Table of contents
