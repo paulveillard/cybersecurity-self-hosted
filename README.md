@@ -29,6 +29,8 @@ Welcome to The World of Self-Hosted in Cybersecurity :
 
 - **Costs** - Regarding costs of self-hosted versus a hosted solution, there is no clear answer to which one is cheaper. It comes down to the size of your organization, the team you already have and the requirements in terms of hardware, support, scalability etc. Either version can end up costing more, it all comes down to your needs. However, in general self-hosting can tend to be more expensive as it requires your own IT team, can cause CAPEX and maintenance costs and you might be paying for more capacity than you are actually using.
 
+**[`^        back to top        ^`](#)**
+
 
 ## Table of contents
 
