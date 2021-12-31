@@ -7,6 +7,8 @@ Welcome to The World of Self-Hosted in Cybersecurity :
 
 **[Self-hosting](https://www.openproject.org/blog/why-self-hosting-software/)** means *installing, running and maintaining the hardware locally and managing* the software application therein, instead of renting this service from a SaaS (software as a service) provider. 
 
+![self](https://github.com/paulveillard/cybersecurity-self-hosted/blob/main/img/self-hosting-self-hosted.png)
+
 
 
 ### Advantages of self-hosting
