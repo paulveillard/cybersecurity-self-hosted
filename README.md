@@ -1971,6 +1971,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 - [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
 
 
+**[`^        back to top        ^`](#)**
 
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
